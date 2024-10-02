@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Email_Task/static/css/main.68ddf9e6.css",
+    "main.js": "/Email_Task/static/js/main.f8d6ee16.js",
+    "index.html": "/Email_Task/index.html",
+    "main.68ddf9e6.css.map": "/Email_Task/static/css/main.68ddf9e6.css.map",
+    "main.f8d6ee16.js.map": "/Email_Task/static/js/main.f8d6ee16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68ddf9e6.css",
+    "static/js/main.f8d6ee16.js"
+  ]
+}
